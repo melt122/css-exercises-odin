@@ -1,0 +1,14 @@
+.me_1 {
+    color: hsl(0, 0%, 100%);
+    background-color:hsl(0, 0%, 0%) ;
+    font-weight: bold;
+}
+
+.me_2 {
+    background-color: hsl(60, 100%, 50%);
+}
+
+.me_3 {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
